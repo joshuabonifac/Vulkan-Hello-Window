@@ -39,3 +39,6 @@ int main() {
 
     return EXIT_SUCCESS;
 }
+
+// Source: Base Code from Drawing a Triangle chapter of Vulkan Tutorial.
+// URL:: https://vulkan-tutorial.com/Drawing_a_triangle/Setup/Base_code
